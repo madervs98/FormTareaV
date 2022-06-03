@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormTareaV", "FormTareaV.csproj", "{52A6E1C3-FC74-405A-8161-AA5D7110EB93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A6E1C3-FC74-405A-8161-AA5D7110EB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A6E1C3-FC74-405A-8161-AA5D7110EB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A6E1C3-FC74-405A-8161-AA5D7110EB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A6E1C3-FC74-405A-8161-AA5D7110EB93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A69B1CE-C333-4B11-A238-E6B9FCA50969}
+	EndGlobalSection
+EndGlobal
